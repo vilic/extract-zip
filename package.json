@@ -28,7 +28,7 @@
     "concat-stream": "1.5.0",
     "debug": "0.7.4",
     "mkdirp": "0.5.0",
-    "yauzl": "2.4.1"
+    "yauzl": "https://github.com/vilic/yauzl/tarball/b7d6644a9292ea46145759ca3d4551bbcd7776ee"
   },
   "devDependencies": {
     "rimraf": "^2.2.8",
